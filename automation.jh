@@ -1,0 +1,7 @@
+
+entity Query {
+	key String,
+    value String,
+    env String
+}
+
